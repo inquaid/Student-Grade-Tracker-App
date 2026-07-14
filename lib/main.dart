@@ -5,7 +5,7 @@ import 'providers/subject_provider.dart';
 import 'providers/theme_provider.dart';
 import 'screens/home_screen.dart';
 import 'theme/app_theme.dart';
-// commit 2
+// commit 3
 void main() {
   runApp(
     MultiProvider(
